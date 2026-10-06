@@ -42,7 +42,7 @@ x-tier-reason: portfolio-lead
 x-api-status: no-public-api
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-08-08'
+modified: '2026-10-06'
 tags:
 - Company
 - Mental Health
@@ -53,6 +53,8 @@ tags:
 - Health Tech
 apis: []
 common:
+- url: https://headway.co/blog/rss.xml
+  type: BlogRSS
 - type: DomainSecurity
   url: security/headway-domain-security.yml
 - type: Website
